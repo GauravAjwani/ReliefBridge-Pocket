@@ -99,16 +99,3 @@ Useful scripts:
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
-## Submit to GitHub / Devpost
-
-Full upload checklist: [docs/GITHUB_SUBMISSION.md](docs/GITHUB_SUBMISSION.md)
-
-Quick steps:
-
-1. Create a **public** GitHub repo
-2. Push this project (do not include `node_modules/` or `build/` folders)
-3. Set repo **About** section to show **MIT** license
-4. Submit on Devpost with repo URL, demo video, and benchmark screenshots
-
-Devpost copy: [docs/devpost-description.md](docs/devpost-description.md)
