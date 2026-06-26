@@ -1,0 +1,56 @@
+[
+  {
+    "id": "msg-001",
+    "channelId": "C_FLOOD",
+    "channelName": "flood-response",
+    "user": "Priya",
+    "text": "URGENT: Riverside Apartments has 3 seniors on the second floor who need wheelchair-accessible transport to North Shelter before the road closes.",
+    "timestamp": "2026-06-20T00:19:00.000Z",
+    "permalink": "https://example.slack.com/archives/C_FLOOD/p001"
+  },
+  {
+    "id": "msg-002",
+    "channelId": "C_VOLUNTEERS",
+    "channelName": "volunteers",
+    "user": "Malik",
+    "text": "I have two accessible vans near West High School and can do pickup runs now.",
+    "timestamp": "2026-06-20T00:22:00.000Z",
+    "permalink": "https://example.slack.com/archives/C_VOLUNTEERS/p002"
+  },
+  {
+    "id": "msg-003",
+    "channelId": "C_MEDICAL",
+    "channelName": "medical",
+    "user": "Nora",
+    "text": "Need insulin cooler kit for evacuee arriving at North Shelter. Current fridge is full and this is time sensitive.",
+    "timestamp": "2026-06-20T00:27:00.000Z",
+    "permalink": "https://example.slack.com/archives/C_MEDICAL/p003"
+  },
+  {
+    "id": "msg-004",
+    "channelId": "C_MEDICAL",
+    "channelName": "medical",
+    "user": "Ada",
+    "text": "County Clinic has four insulin cooler kits and I can bring one to North Shelter tonight.",
+    "timestamp": "2026-06-20T00:30:00.000Z",
+    "permalink": "https://example.slack.com/archives/C_MEDICAL/p004"
+  },
+  {
+    "id": "msg-005",
+    "channelId": "C_SHELTER",
+    "channelName": "shelter-ops",
+    "user": "Sam",
+    "text": "Community Kitchen can send 80 shelf-stable meals if someone confirms drop-off at East Gym.",
+    "timestamp": "2026-06-20T00:35:00.000Z",
+    "permalink": "https://example.slack.com/archives/C_SHELTER/p005"
+  },
+  {
+    "id": "msg-006",
+    "channelId": "C_RANDOM",
+    "channelName": "random",
+    "user": "Lee",
+    "text": "Reminder that volunteer badges are on the table by the entrance.",
+    "timestamp": "2026-06-20T00:38:00.000Z",
+    "permalink": "https://example.slack.com/archives/C_RANDOM/p006"
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "name": "reliefbridge-optimized-int8",
+  "format": "bag_of_words_int8",
+  "scale": 0.1,
+  "labels": ["need", "offer", "update", "noise"],
+  "bias": [1, 0, 0, 0],
+  "weights": {
+    "need": [15, -4, 1, -5],
+    "urgent": [22, -2, 2, -8],
+    "sensitive": [12, 0, 1, -3],
+    "time": [9, 0, 3, -2],
+    "insulin": [16, 2, 1, -4],
+    "wheelchair": [15, 2, 0, -4],
+    "transport": [13, 7, 0, -3],
+    "van": [4, 14, 0, -3],
+    "vans": [4, 14, 0, -3],
+    "can": [-1, 10, 0, -1],
+    "have": [-1, 11, 0, -1],
+    "bring": [0, 12, 0, -2],
+    "send": [2, 11, 0, -1],
+    "confirmed": [0, 0, 14, -1],
+    "resolved": [-4, 0, 16, -1],
+    "update": [-2, 0, 14, -1],
+    "reminder": [-4, -1, 2, 13],
+    "badge": [-3, -1, 1, 12],
+    "badges": [-3, -1, 1, 12]
+  },
+  "optimizations": [
+    "int8 weights",
+    "token-id cache",
+    "category keyword lookup",
+    "single-pass urgency scoring"
+  ]
+}

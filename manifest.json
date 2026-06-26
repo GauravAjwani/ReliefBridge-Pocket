@@ -1,0 +1,46 @@
+{
+  "display_information": {
+    "name": "ReliefBridge",
+    "description": "Turns relief coordination chatter into prioritized, claimable action plans.",
+    "background_color": "#24433f"
+  },
+  "features": {
+    "bot_user": {
+      "display_name": "ReliefBridge",
+      "always_online": true
+    },
+    "app_home": {
+      "home_tab_enabled": true,
+      "messages_tab_enabled": true,
+      "messages_tab_read_only_enabled": false
+    }
+  },
+  "oauth_config": {
+    "scopes": {
+      "bot": [
+        "app_mentions:read",
+        "channels:history",
+        "chat:write",
+        "commands",
+        "groups:history",
+        "im:history",
+        "im:read",
+        "im:write",
+        "mpim:history",
+        "reactions:write",
+        "agents:search"
+      ]
+    }
+  },
+  "settings": {
+    "event_subscriptions": {
+      "bot_events": ["app_mention", "message.im"]
+    },
+    "interactivity": {
+      "is_enabled": true
+    },
+    "org_deploy_enabled": false,
+    "socket_mode_enabled": true,
+    "token_rotation_enabled": false
+  }
+}

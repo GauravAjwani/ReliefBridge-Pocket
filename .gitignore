@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+mobile/.gradle/
+mobile/build/
+mobile/app/build/
+
+# Environment and secrets (never commit real tokens)
+.env
+.env.*
+!.env.sample
+
+# Logs and coverage
+*.log
+coverage/
+.slack/
+
+# Android / IDE
+local.properties
+*.apk
+*.aab
+.idea/
+*.iml
+*.ipr
+*.iws
+.externalNativeBuild/
+.cxx/
+captures/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor / local tooling
+.vscode/
+.cursor/
+*.swp
+*.swo

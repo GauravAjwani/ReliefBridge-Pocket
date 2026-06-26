@@ -1,0 +1,86 @@
+[
+  {
+    "id": "msg-001",
+    "channelName": "flood-response",
+    "user": "Priya",
+    "text": "URGENT: Riverside Apartments has 3 seniors on the second floor who need wheelchair-accessible transport to North Shelter before the road closes.",
+    "timestamp": "2026-06-20T00:19:00.000Z"
+  },
+  {
+    "id": "msg-002",
+    "channelName": "volunteers",
+    "user": "Malik",
+    "text": "I have two accessible vans near West High School and can do pickup runs now.",
+    "timestamp": "2026-06-20T00:22:00.000Z"
+  },
+  {
+    "id": "msg-003",
+    "channelName": "medical",
+    "user": "Nora",
+    "text": "Need insulin cooler kit for evacuee arriving at North Shelter. Current fridge is full and this is time sensitive.",
+    "timestamp": "2026-06-20T00:27:00.000Z"
+  },
+  {
+    "id": "msg-004",
+    "channelName": "medical",
+    "user": "Ada",
+    "text": "County Clinic has four insulin cooler kits and I can bring one to North Shelter tonight.",
+    "timestamp": "2026-06-20T00:30:00.000Z"
+  },
+  {
+    "id": "msg-005",
+    "channelName": "shelter-ops",
+    "user": "Sam",
+    "text": "Community Kitchen can send 80 shelf-stable meals if someone confirms drop-off at East Gym.",
+    "timestamp": "2026-06-20T00:35:00.000Z"
+  },
+  {
+    "id": "msg-006",
+    "channelName": "random",
+    "user": "Lee",
+    "text": "Reminder that volunteer badges are on the table by the entrance.",
+    "timestamp": "2026-06-20T00:38:00.000Z"
+  },
+  {
+    "id": "msg-007",
+    "channelName": "flood-response",
+    "user": "Jordan",
+    "text": "Critical: family of 5 with infant stranded on Oak Street, no vehicle, water rising. Need immediate pickup.",
+    "timestamp": "2026-06-20T00:42:00.000Z"
+  },
+  {
+    "id": "msg-008",
+    "channelName": "medical",
+    "user": "Dr. Kwan",
+    "text": "Oxygen concentrator is available at Clinic B. Can be transported to any shelter that needs it.",
+    "timestamp": "2026-06-20T00:45:00.000Z"
+  },
+  {
+    "id": "msg-009",
+    "channelName": "shelter-ops",
+    "user": "Fatima",
+    "text": "East Gym now confirmed at capacity — 120 cots occupied. Redirecting all new arrivals to North Shelter.",
+    "timestamp": "2026-06-20T00:50:00.000Z"
+  },
+  {
+    "id": "msg-010",
+    "channelName": "volunteers",
+    "user": "Chen",
+    "text": "I have 200 water bottles and ready to deliver anywhere in zone 3 right now.",
+    "timestamp": "2026-06-20T00:53:00.000Z"
+  },
+  {
+    "id": "msg-011",
+    "channelName": "flood-response",
+    "user": "Amir",
+    "text": "Elderly man at Pine Court needs medication — has not taken blood pressure pills in 24 hours. URGENT.",
+    "timestamp": "2026-06-20T00:57:00.000Z"
+  },
+  {
+    "id": "msg-012",
+    "channelName": "random",
+    "user": "Dev",
+    "text": "Great work everyone. Proud of this team.",
+    "timestamp": "2026-06-20T01:02:00.000Z"
+  }
+]

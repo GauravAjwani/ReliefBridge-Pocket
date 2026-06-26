@@ -1,0 +1,70 @@
+{
+  "volunteers": [
+    {
+      "id": "vol-ada",
+      "name": "Ada Chen",
+      "slackUserId": "UADA123",
+      "skills": ["medical", "accessibility"],
+      "location": "North Shelter",
+      "availability": "tonight 6pm-11pm",
+      "capacity": 2
+    },
+    {
+      "id": "vol-malik",
+      "name": "Malik Johnson",
+      "slackUserId": "UMALIK123",
+      "skills": ["transport", "logistics"],
+      "location": "West High School",
+      "availability": "now",
+      "capacity": 3
+    },
+    {
+      "id": "vol-sofia",
+      "name": "Sofia Reyes",
+      "slackUserId": "USOFIA123",
+      "skills": ["food", "shelter"],
+      "location": "Community Kitchen",
+      "availability": "today until 8pm",
+      "capacity": 4
+    }
+  ],
+  "resources": [
+    {
+      "id": "res-insulin",
+      "type": "medical",
+      "name": "Insulin cooler kits",
+      "location": "North Shelter",
+      "quantity": 4,
+      "unit": "kits",
+      "owner": "County Clinic"
+    },
+    {
+      "id": "res-vans",
+      "type": "transport",
+      "name": "Accessible vans",
+      "location": "West High School",
+      "quantity": 2,
+      "unit": "vans",
+      "owner": "Mutual Aid Drivers"
+    },
+    {
+      "id": "res-meals",
+      "type": "food",
+      "name": "Shelf-stable meals",
+      "location": "Community Kitchen",
+      "quantity": 180,
+      "unit": "meals",
+      "owner": "Food Bank Team"
+    }
+  ],
+  "cases": [
+    {
+      "id": "case-001",
+      "title": "Wheelchair-accessible transport to North Shelter",
+      "category": "transport",
+      "status": "open",
+      "location": "Riverside Apartments",
+      "createdAt": "2026-06-20T00:15:00.000Z"
+    }
+  ]
+}

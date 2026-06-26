@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="relief_primary">#245B45</color>
+    <color name="relief_secondary">#D96C2C</color>
+    <color name="relief_background">#F7F4EC</color>
+</resources>
